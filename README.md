@@ -1,13 +1,28 @@
 # Python-Projects
 A list of some of my notable python projects
 
-# Punix Installer
-run the file from the command prompt (no args)
+# Punix
+A simple proof of concept
+
+Once in punix (Use the punix Installer to install)
+type help all for further infomation
+
+this program can do equations (Use {} to singal when one appears)
+{1+2*(3+4)} = 15
 
 Notes
 - for and rep are very buggy
 
-# client37 and server
+## Punix Installer
+run the file from the command prompt (no args)
+
+## Punix Restore (Addon for punix)
+run using PunixRestore.bat in C:/punix
+
+
+# Command Line Messenger Application
+
+## How To Run
 
 Simple messaging app
 1. run server.py from the command prompt

@@ -17,8 +17,9 @@ Notes
 run the file from the command prompt (no args)
 
 ## Punix Restore (Addon for punix)
-run using PunixRestore.bat in C:/punix
+Download PunixRestore.py and insert it into C:/punix/PunixInternals
 
+run using PunixRestore.bat in C:/punix
 
 # Command Line Messenger Application
 

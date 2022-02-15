@@ -7,6 +7,10 @@ A simple proof of concept
 Once in punix (Use the punix Installer to install)
 type help all for further infomation
 
+you can use ! as shorthand for echo
+
+for example: "!hello" would output "hello"
+
 this program can do equations (Use {} to singal when one appears)
 {1+2*(3+4)} = 15
 
